@@ -22,6 +22,7 @@ namespace cobakoneksi
 
                 //data source isinya di ambil dari server name nya di sql server
                 //password sesuain dengan password yang kalian bikin sebelumnya
+                //database sesuai database yang dimiliki
             )
             {
                 con.Open();
